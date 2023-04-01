@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5463205082",
+        "value": "6258877205",
         "required": true
       },
       "STRING_SESSION": {
@@ -55,22 +55,22 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/Best_FriendsFor_Ever",
+        "value": "https://t.me/BRANDED_WORLD",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/Star_X_Network",
+        "value": "https://t.me/BRANDED_KHUSHI",
         "required": false
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "",
+        "value": "https://te.legra.ph/file/ebcf5d6354a44ff833cc7.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "value": "https://te.legra.ph/file/ebf34649780915d5951fe.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/its-star-boi/ShizukaXMusic",
+        "value": "https://github.com/WCGKING/ShizukaXMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
