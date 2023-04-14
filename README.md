@@ -1,8 +1,8 @@
-<h1 align="center"><b>🥵 KHUSHI MUSIC 🥵</b></h1>
+<h1 align="center"><b>🥵 GUPTA MUSIC 🥵</b></h1>
 
 <h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://telegram.dog/B_R_A_N_D_E_D_K_I_N_G"><img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/II_ASHISH_GUPTA_IIl"><img src="(https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg)" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/WCGKING/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/WCGKING/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -200,8 +200,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <br>
 
 # ❤️ Support<
-<a href="https://t.me/BRANDED_KHUSHI"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Zidd_Bot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Dost_support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
