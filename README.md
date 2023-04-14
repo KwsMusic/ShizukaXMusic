@@ -135,7 +135,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/yfeavn1V20Q)**</i>
+<i>**[Watch Deploying Tutorial...](https://youtu.be/b8iZtBqSMMs)**</i>
 
 > ʜᴇʀᴏᴋᴜ ʜᴀs ᴛᴡᴏ ᴠᴀʀs[ ʜᴇʀᴏᴋᴜ_ᴀᴘɪ_ᴋᴇʏ & ʜᴇʀᴏᴋᴜ_ᴀᴘᴘ_ɴᴀᴍᴇ ] ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴛᴏ ᴡᴏʀᴋ. 
 > ʙʏ sᴇᴛᴛɪɴɢ ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ, sᴇᴛ ᴠᴀʀ, ᴇᴅɪᴛ ᴠᴀʀ, ᴅᴇʟᴇᴛᴇ ᴠᴀʀs , ᴄʜᴇᴄᴋ ᴅʏɴᴏ ᴜsᴀɢᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙᴏᴛ. 
