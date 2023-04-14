@@ -150,7 +150,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ᴠᴘs</b></summary>
 <br>
 
-- Get your [Necessary Variables](https://github.com/its-star-boi/ShizukaXMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/WCGKING/ShizukaXMusic/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -186,7 +186,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/its_star_boi)
+- [𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://telegram.dog/B_R_A_N_D_E_D_K_I_N_G)
 - [ᴀsᴀᴅ ᴀʟɪ](https://telegram.dog/Dr_Asad_Ali)
 - [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
 - [ʜᴀʀsʜɪᴛ](https://telegram.dog/HarshitSharma361)
