@@ -2,7 +2,7 @@
 
 <h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://telegram.dog/B_R_A_N_D_E_D_K_I_N_G"><img src="https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/II_ASHISH_GUPTA_IIl"><img src="https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg" width="400"></a></p>
 
 
 <p align="center">
@@ -112,7 +112,7 @@
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ sʜɪᴢᴜᴋᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ 
         
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/WCGKING/ShizukaXMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/KwsMusic/ShizukaXMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
     
 </details>
 
