@@ -1,7 +1,7 @@
 {
     "name": "Shizuka Music Bot",
     "description": "Shizuka Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/798b7275e58d09ac6b095.jpg",
+    "logo": "https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "6258877205",
+        "value": "6277238293",
         "required": true
       },
       "STRING_SESSION": {
@@ -55,22 +55,22 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/BRANDED_WORLD",
+        "value": "https://t.me/Dost_support",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/BRANDED_KHUSHI",
+        "value": "https://t.me/Zidd_Bot",
         "required": false
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "https://te.legra.ph/file/ebcf5d6354a44ff833cc7.jpg",
+        "value": "https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "https://te.legra.ph/file/ebf34649780915d5951fe.jpg",
+        "value": "https://te.legra.ph/file/063bfeff0efdbd87fb103.jp",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/WCGKING/ShizukaXMusic",
+        "value": "https://github.com/KwsMusic/ShizukaXMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
