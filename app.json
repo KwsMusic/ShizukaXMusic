@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "6258877205",
+        "value": "6277238293",
         "required": true
       },
       "STRING_SESSION": {
@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/Dost_support",
+        "value": "https://t.me/BWF_MUSIC",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/Zidd_Bot",
+        "value": "https://t.me/MUSICBOT_OWNER",
         "required": false
       },
       "PING_IMG_URL": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/WCGKING/ShizukaXMusic",
+        "value": "https://github.com/KwsMusic/ShizukaXMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
