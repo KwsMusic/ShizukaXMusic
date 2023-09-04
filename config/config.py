@@ -33,8 +33,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/WCGKING/ShizukaXMusic")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Dost_support")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Zidd_Bot")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/L2RSINGING")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/MUSICBOT_OWNER")
 
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
