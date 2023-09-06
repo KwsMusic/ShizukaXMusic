@@ -186,7 +186,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://t.me/MUSICBOT_OWNER)
+- [𝙌𝙐𝙄𝙕𝐐𝐮𝐞𝐞𝐧 𝐌𝐮𝐬𝐢𝐜](https://t.me/MUSICBOT_OWNER)
 - [ᴀsᴀᴅ ᴀʟɪ](https://t.me/ALL_QUIZ_TAME)
 - [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
 - [ʜᴀʀsʜɪᴛ](https://telegram.dog/HarshitSharma361)
