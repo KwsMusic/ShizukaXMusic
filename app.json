@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "6277238293",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
@@ -80,7 +80,7 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
-        "value": "",
+        "value": "˹ʙᴇwᴀꜰᴀ ✘ ᴍᴜsɪᴄ˼",
         "required": false
       },
       "LOG_GROUP_ID": {
