@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/KwsMusic/ShizukaXMusic",
+        "value": "https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg",
         "required": true
       },
       "UPSTREAM_BRANCH": {
