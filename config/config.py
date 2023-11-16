@@ -30,7 +30,7 @@ UPSTREAM_REPO = getenv(
     "https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
-GITHUB_REPO = getenv("GITHUB_REPO", "https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/KwsMusic/ShizukaXMusic.git")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/L2RSINGING")
