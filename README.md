@@ -6,8 +6,8 @@
 
 
 <p align="center">
-    <a href="https://github.com/WCGKING/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/WCGKING/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/WCGKING/ShizukaXMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/WCGKING/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/KwsMusic/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/WCGKING/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/KwsMusic/ShizukaXMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/WCGKING/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/WCGKING/ShizukaXMusic/issues"> <img src="https://img.shields.io/github/issues/WCGKING/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/WCGKING/ShizukaXMusic/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
